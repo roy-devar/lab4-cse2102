@@ -9,6 +9,7 @@ This project demonstrates the interaction between a client and a server using Fl
 To allow access to the server running on port 5000:
 - Ensure that your Codespace or VM allows public access to port 5000.
 - Change the visibility of port 5000 to `Public`.
+- Make sure my-server has the right address
 
 ### 2. Run the Server Python File
 Start the server on your Codespace or local environment:
